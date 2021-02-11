@@ -89,6 +89,7 @@
             // screenshotTimer
             // 
             this.screenshotTimer.Interval = 33;
+            this.screenshotTimer.Tick += new System.EventHandler(this.screenshotTimer_Tick);
             // 
             // mainForm
             // 
@@ -102,6 +103,7 @@
             this.Controls.Add(this.setCaptureBTN);
             this.Name = "mainForm";
             this.Text = "Capture Panel";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.mainForm_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 
