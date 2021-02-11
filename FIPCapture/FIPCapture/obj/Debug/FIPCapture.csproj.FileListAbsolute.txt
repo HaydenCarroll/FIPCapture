@@ -1,0 +1,10 @@
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\bin\Debug\FIPCapture.exe.config
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\bin\Debug\FIPCapture.exe
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\bin\Debug\FIPCapture.pdb
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\obj\Debug\FIPCapture.csprojAssemblyReference.cache
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\obj\Debug\FIPCapture.mainForm.resources
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\obj\Debug\FIPCapture.Properties.Resources.resources
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\obj\Debug\FIPCapture.csproj.GenerateResource.cache
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\obj\Debug\FIPCapture.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\obj\Debug\FIPCapture.exe
+C:\Users\Hayden\source\repos\FIPCapture\FIPCapture\obj\Debug\FIPCapture.pdb
