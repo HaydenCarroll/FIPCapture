@@ -29,3 +29,7 @@ C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\obj\Debug\FIPCaptu
 C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\obj\Debug\FIPCapture.pdb
 C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\obj\Debug\FIPCapture.CaptureSettings.resources
 C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\obj\Debug\FIPCapture.CapturePreviewBox.resources
+C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\bin\Debug\FIPCapture.exe.manifest
+C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\bin\Debug\FIPCapture.application
+C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\obj\Debug\FIPCapture.exe.manifest
+C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\obj\Debug\FIPCapture.application

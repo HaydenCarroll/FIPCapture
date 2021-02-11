@@ -22,3 +22,4 @@ C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\bin\Release\FIPCap
 C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\bin\Release\FIPCapture.application
 C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\obj\Release\FIPCapture.exe.manifest
 C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\obj\Release\FIPCapture.application
+C:\Users\Hayden\Source\Repos\FIPCapture\FIPCapture\FIPCapture\obj\Release\FIPCapture.csprojAssemblyReference.cache

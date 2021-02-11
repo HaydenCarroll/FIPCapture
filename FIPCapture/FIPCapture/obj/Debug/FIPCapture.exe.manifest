@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FIPCapture.exe" size="55256">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FIPCapture.exe" size="57304">
       <assemblyIdentity name="FIPCapture" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eZae3mPOHqMNBafW1aUiruRZW3j8bexKhzYIfRHvOSY=</dsig:DigestValue>
+        <dsig:DigestValue>BkWzlo3G/XmYyjGRvK9NohQNfoZ63iNucvdac2cH8vI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
