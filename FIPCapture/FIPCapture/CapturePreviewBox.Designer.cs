@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CapturePreviewBox));
             this.closeBTN = new System.Windows.Forms.Button();
             this.setBTN = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -62,6 +63,7 @@
             this.Controls.Add(this.closeBTN);
             this.Controls.Add(this.setBTN);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "CapturePreviewBox";
             this.Text = "CapturePreviewBox";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.CapturePreviewBox_FormClosing);

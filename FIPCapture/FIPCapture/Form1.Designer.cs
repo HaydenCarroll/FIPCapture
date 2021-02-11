@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(mainForm));
             this.setCaptureBTN = new System.Windows.Forms.Button();
             this.captureStartBTN = new System.Windows.Forms.Button();
             this.captureStopBTN = new System.Windows.Forms.Button();
@@ -39,7 +40,7 @@
             // 
             // setCaptureBTN
             // 
-            this.setCaptureBTN.Location = new System.Drawing.Point(90, 30);
+            this.setCaptureBTN.Location = new System.Drawing.Point(190, 46);
             this.setCaptureBTN.Name = "setCaptureBTN";
             this.setCaptureBTN.Size = new System.Drawing.Size(114, 49);
             this.setCaptureBTN.TabIndex = 0;
@@ -49,7 +50,7 @@
             // 
             // captureStartBTN
             // 
-            this.captureStartBTN.Location = new System.Drawing.Point(90, 85);
+            this.captureStartBTN.Location = new System.Drawing.Point(28, 46);
             this.captureStartBTN.Name = "captureStartBTN";
             this.captureStartBTN.Size = new System.Drawing.Size(114, 49);
             this.captureStartBTN.TabIndex = 1;
@@ -59,7 +60,7 @@
             // 
             // captureStopBTN
             // 
-            this.captureStopBTN.Location = new System.Drawing.Point(90, 140);
+            this.captureStopBTN.Location = new System.Drawing.Point(28, 101);
             this.captureStopBTN.Name = "captureStopBTN";
             this.captureStopBTN.Size = new System.Drawing.Size(114, 48);
             this.captureStopBTN.TabIndex = 2;
@@ -69,7 +70,7 @@
             // 
             // captureSettingsBTN
             // 
-            this.captureSettingsBTN.Location = new System.Drawing.Point(90, 194);
+            this.captureSettingsBTN.Location = new System.Drawing.Point(190, 101);
             this.captureSettingsBTN.Name = "captureSettingsBTN";
             this.captureSettingsBTN.Size = new System.Drawing.Size(114, 48);
             this.captureSettingsBTN.TabIndex = 3;
@@ -80,7 +81,7 @@
             // panelCountLBL
             // 
             this.panelCountLBL.AutoSize = true;
-            this.panelCountLBL.Location = new System.Drawing.Point(720, 428);
+            this.panelCountLBL.Location = new System.Drawing.Point(268, 203);
             this.panelCountLBL.Name = "panelCountLBL";
             this.panelCountLBL.Size = new System.Drawing.Size(68, 13);
             this.panelCountLBL.TabIndex = 4;
@@ -95,12 +96,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(348, 225);
             this.Controls.Add(this.panelCountLBL);
             this.Controls.Add(this.captureSettingsBTN);
             this.Controls.Add(this.captureStopBTN);
             this.Controls.Add(this.captureStartBTN);
             this.Controls.Add(this.setCaptureBTN);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "mainForm";
             this.Text = "Capture Panel";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.mainForm_FormClosed);

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CaptureSettings));
             this.fpsUD = new System.Windows.Forms.NumericUpDown();
             this.heightUD = new System.Windows.Forms.NumericUpDown();
             this.widthUD = new System.Windows.Forms.NumericUpDown();
@@ -204,6 +205,7 @@
             this.Controls.Add(this.heightLBL);
             this.Controls.Add(this.widthLBL);
             this.Controls.Add(this.ratioCB);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "CaptureSettings";
             this.Text = "CaptureSettings";
             ((System.ComponentModel.ISupportInitialize)(this.fpsUD)).EndInit();
